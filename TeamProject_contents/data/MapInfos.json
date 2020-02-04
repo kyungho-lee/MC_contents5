@@ -1,4 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":459,"scrollY":312.5}
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":3,"expanded":false,"name":"보스전","order":4,"parentId":0,"scrollX":496,"scrollY":555.5},
+{"id":4,"expanded":true,"name":"전송 홀","order":3,"parentId":0,"scrollX":557,"scrollY":640.5}
 ]
