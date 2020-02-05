@@ -1,9 +1,11 @@
 [
 null,
 {"id":1,"expanded":true,"name":"월드맵","order":1,"parentId":0,"scrollX":598.8,"scrollY":519.6},
-{"id":2,"expanded":true,"name":"북쪽마을","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"북쪽마을","order":2,"parentId":0,"scrollX":598.8,"scrollY":519.6},
 {"id":3,"expanded":true,"name":"여관1F","order":3,"parentId":2,"scrollX":832,"scrollY":640},
 {"id":4,"expanded":false,"name":"방탈출","order":5,"parentId":0,"scrollX":598.8,"scrollY":519.6},
 {"id":5,"expanded":false,"name":"지하던전","order":6,"parentId":4,"scrollX":998.4,"scrollY":594},
-{"id":6,"expanded":true,"name":"여관2F","order":4,"parentId":2,"scrollX":598.8,"scrollY":519.6}
+{"id":6,"expanded":true,"name":"여관2F","order":4,"parentId":2,"scrollX":598.8,"scrollY":519.6},
+{"id":7,"expanded":false,"name":"test_map","order":7,"parentId":0,"scrollX":598.8,"scrollY":519.6},
+{"id":8,"expanded":false,"name":"SF inside","order":8,"parentId":0,"scrollX":598.8,"scrollY":519.6}
 ]
