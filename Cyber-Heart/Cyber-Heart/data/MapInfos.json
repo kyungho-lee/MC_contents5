@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"기능 Function","order":1,"parentId":0,"scrollX":412,"scrollY":336.6666666666667},
+{"id":1,"expanded":false,"name":"기능 Function","order":1,"parentId":0,"scrollX":499,"scrollY":433},
 {"id":2,"expanded":false,"name":"#1_기지입구","order":2,"parentId":0,"scrollX":468.6666666666667,"scrollY":571.3333333333334},
 {"id":3,"expanded":true,"name":"#1-1_기지입구_무기획득","order":3,"parentId":2,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"#2_기지내부","order":4,"parentId":0,"scrollX":468.6666666666667,"scrollY":571.3333333333334},
+{"id":4,"expanded":false,"name":"#2_기지내부","order":4,"parentId":0,"scrollX":499,"scrollY":433},
 {"id":5,"expanded":true,"name":"#2-2_기지내부통로","order":5,"parentId":4,"scrollX":665.3333333333334,"scrollY":577.3333333333334},
 {"id":6,"expanded":false,"name":"#3_기지내부 중앙방","order":6,"parentId":0,"scrollX":468.6666666666667,"scrollY":571.3333333333334},
 {"id":7,"expanded":true,"name":"#5_기지내부 자리바꾸기","order":9,"parentId":0,"scrollX":468.6666666666667,"scrollY":571.3333333333334},
