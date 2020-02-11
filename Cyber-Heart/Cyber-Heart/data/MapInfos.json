@@ -16,6 +16,6 @@ null,
 {"id":14,"expanded":false,"name":"#8-1_기지내부_물미로방","order":15,"parentId":13,"scrollX":665.3333333333334,"scrollY":577.3333333333334},
 {"id":15,"expanded":true,"name":"#9_보스방","order":17,"parentId":0,"scrollX":665.3333333333334,"scrollY":577.3333333333334},
 {"id":16,"expanded":false,"name":"#9-1_보스방2페이즈","order":18,"parentId":15,"scrollX":832,"scrollY":640},
-{"id":17,"expanded":true,"name":"기지내부2 스페어","order":1,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":17,"expanded":true,"name":"기지내부2 스페어","order":1,"parentId":0,"scrollX":499,"scrollY":433},
 {"id":18,"expanded":true,"name":"#3기지내부 중앙통로","order":7,"parentId":0,"scrollX":832,"scrollY":640}
 ]
