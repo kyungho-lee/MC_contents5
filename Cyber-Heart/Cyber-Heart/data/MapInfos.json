@@ -27,7 +27,7 @@ null,
 {"id":25,"expanded":false,"name":"내가짱임","order":27,"parentId":0,"scrollX":464,"scrollY":351.5},
 {"id":26,"expanded":false,"name":"알프말 들어줌","order":28,"parentId":0,"scrollX":499,"scrollY":433},
 {"id":27,"expanded":true,"name":"Dynamic_Title2","order":4,"parentId":0,"scrollX":499,"scrollY":433},
-{"id":28,"expanded":true,"name":"Dynamic_Title3","order":5,"parentId":27,"scrollX":499,"scrollY":433},
+{"id":28,"expanded":false,"name":"Dynamic_Title3","order":5,"parentId":27,"scrollX":499,"scrollY":433},
 {"id":29,"expanded":false,"name":"#9-1_보스방1페이즈","order":25,"parentId":15,"scrollX":499,"scrollY":433},
 {"id":30,"expanded":false,"name":"#9-3_보스방엔딩","order":31,"parentId":0,"scrollX":499,"scrollY":433},
 {"id":31,"expanded":false,"name":"Dynamic_Title3","order":6,"parentId":28,"scrollX":832,"scrollY":640}
