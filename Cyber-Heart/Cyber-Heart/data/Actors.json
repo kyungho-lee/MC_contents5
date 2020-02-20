@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Cyberheart_Actor","classId":1,"equips":[0,1,2,3,0],"faceIndex":0,"faceName":"Profile_Image_Nier_Automata_for_MV","traits":[],"initialLevel":1,"maxLevel":99,"name":"크리스틴","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Cyberheart_Actor","classId":1,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Profile_Image_Nier_Automata_for_MV","traits":[],"initialLevel":1,"maxLevel":99,"name":"크리스틴","nickname":"","note":"","profile":""}
 ]
